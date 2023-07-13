@@ -1,0 +1,1938 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 789.42
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "语音端点检测层"
+		xmin = 0.0
+		xmax = 789.42
+		intervals: size = 481
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.5200000000000001
+				text = "active"
+			intervals [2]:
+				xmin = 0.5200000000000001
+				xmax = 1.2600000000000007
+				text = "sil"
+			intervals [3]:
+				xmin = 1.2600000000000007
+				xmax = 3.720000000000003
+				text = "active"
+			intervals [4]:
+				xmin = 3.720000000000003
+				xmax = 5.379999999999973
+				text = "sil"
+			intervals [5]:
+				xmin = 5.379999999999973
+				xmax = 7.999999999999917
+				text = "active"
+			intervals [6]:
+				xmin = 7.999999999999917
+				xmax = 9.659999999999883
+				text = "sil"
+			intervals [7]:
+				xmin = 9.659999999999883
+				xmax = 12.299999999999827
+				text = "active"
+			intervals [8]:
+				xmin = 12.299999999999827
+				xmax = 13.5399999999998
+				text = "sil"
+			intervals [9]:
+				xmin = 13.5399999999998
+				xmax = 18.979999999999684
+				text = "active"
+			intervals [10]:
+				xmin = 18.979999999999684
+				xmax = 20.51999999999965
+				text = "sil"
+			intervals [11]:
+				xmin = 20.51999999999965
+				xmax = 23.599999999999586
+				text = "active"
+			intervals [12]:
+				xmin = 23.599999999999586
+				xmax = 24.239999999999572
+				text = "sil"
+			intervals [13]:
+				xmin = 24.239999999999572
+				xmax = 24.959999999999557
+				text = "active"
+			intervals [14]:
+				xmin = 24.959999999999557
+				xmax = 25.499999999999545
+				text = "sil"
+			intervals [15]:
+				xmin = 25.499999999999545
+				xmax = 27.13999999999951
+				text = "active"
+			intervals [16]:
+				xmin = 27.13999999999951
+				xmax = 28.339999999999485
+				text = "sil"
+			intervals [17]:
+				xmin = 28.339999999999485
+				xmax = 31.37999999999942
+				text = "active"
+			intervals [18]:
+				xmin = 31.37999999999942
+				xmax = 32.69999999999951
+				text = "sil"
+			intervals [19]:
+				xmin = 32.69999999999951
+				xmax = 33.299999999999606
+				text = "active"
+			intervals [20]:
+				xmin = 33.299999999999606
+				xmax = 33.83999999999969
+				text = "sil"
+			intervals [21]:
+				xmin = 33.83999999999969
+				xmax = 35.459999999999944
+				text = "active"
+			intervals [22]:
+				xmin = 35.459999999999944
+				xmax = 36.98000000000018
+				text = "sil"
+			intervals [23]:
+				xmin = 36.98000000000018
+				xmax = 39.46000000000057
+				text = "active"
+			intervals [24]:
+				xmin = 39.46000000000057
+				xmax = 40.900000000000794
+				text = "sil"
+			intervals [25]:
+				xmin = 40.900000000000794
+				xmax = 41.5800000000009
+				text = "active"
+			intervals [26]:
+				xmin = 41.5800000000009
+				xmax = 42.120000000000985
+				text = "sil"
+			intervals [27]:
+				xmin = 42.120000000000985
+				xmax = 45.50000000000151
+				text = "active"
+			intervals [28]:
+				xmin = 45.50000000000151
+				xmax = 47.06000000000176
+				text = "sil"
+			intervals [29]:
+				xmin = 47.06000000000176
+				xmax = 49.660000000002164
+				text = "active"
+			intervals [30]:
+				xmin = 49.660000000002164
+				xmax = 51.22000000000241
+				text = "sil"
+			intervals [31]:
+				xmin = 51.22000000000241
+				xmax = 54.04000000000285
+				text = "active"
+			intervals [32]:
+				xmin = 54.04000000000285
+				xmax = 55.82000000000313
+				text = "sil"
+			intervals [33]:
+				xmin = 55.82000000000313
+				xmax = 58.300000000003514
+				text = "active"
+			intervals [34]:
+				xmin = 58.300000000003514
+				xmax = 59.80000000000375
+				text = "sil"
+			intervals [35]:
+				xmin = 59.80000000000375
+				xmax = 60.52000000000386
+				text = "active"
+			intervals [36]:
+				xmin = 60.52000000000386
+				xmax = 61.10000000000395
+				text = "sil"
+			intervals [37]:
+				xmin = 61.10000000000395
+				xmax = 62.840000000004224
+				text = "active"
+			intervals [38]:
+				xmin = 62.840000000004224
+				xmax = 64.48000000000431
+				text = "sil"
+			intervals [39]:
+				xmin = 64.48000000000431
+				xmax = 65.12000000000418
+				text = "active"
+			intervals [40]:
+				xmin = 65.12000000000418
+				xmax = 65.74000000000406
+				text = "sil"
+			intervals [41]:
+				xmin = 65.74000000000406
+				xmax = 67.28000000000375
+				text = "active"
+			intervals [42]:
+				xmin = 67.28000000000375
+				xmax = 68.74000000000346
+				text = "sil"
+			intervals [43]:
+				xmin = 68.74000000000346
+				xmax = 69.44000000000332
+				text = "active"
+			intervals [44]:
+				xmin = 69.44000000000332
+				xmax = 70.16000000000318
+				text = "sil"
+			intervals [45]:
+				xmin = 70.16000000000318
+				xmax = 71.24000000000296
+				text = "active"
+			intervals [46]:
+				xmin = 71.24000000000296
+				xmax = 72.76000000000266
+				text = "sil"
+			intervals [47]:
+				xmin = 72.76000000000266
+				xmax = 74.78000000000226
+				text = "active"
+			intervals [48]:
+				xmin = 74.78000000000226
+				xmax = 76.46000000000193
+				text = "sil"
+			intervals [49]:
+				xmin = 76.46000000000193
+				xmax = 77.16000000000179
+				text = "active"
+			intervals [50]:
+				xmin = 77.16000000000179
+				xmax = 77.78000000000166
+				text = "sil"
+			intervals [51]:
+				xmin = 77.78000000000166
+				xmax = 79.88000000000125
+				text = "active"
+			intervals [52]:
+				xmin = 79.88000000000125
+				xmax = 81.70000000000088
+				text = "sil"
+			intervals [53]:
+				xmin = 81.70000000000088
+				xmax = 82.38000000000075
+				text = "active"
+			intervals [54]:
+				xmin = 82.38000000000075
+				xmax = 82.94000000000064
+				text = "sil"
+			intervals [55]:
+				xmin = 82.94000000000064
+				xmax = 84.94000000000024
+				text = "active"
+			intervals [56]:
+				xmin = 84.94000000000024
+				xmax = 86.41999999999994
+				text = "sil"
+			intervals [57]:
+				xmin = 86.41999999999994
+				xmax = 90.55999999999912
+				text = "active"
+			intervals [58]:
+				xmin = 90.55999999999912
+				xmax = 91.99999999999883
+				text = "sil"
+			intervals [59]:
+				xmin = 91.99999999999883
+				xmax = 92.63999999999871
+				text = "active"
+			intervals [60]:
+				xmin = 92.63999999999871
+				xmax = 93.59999999999852
+				text = "sil"
+			intervals [61]:
+				xmin = 93.59999999999852
+				xmax = 95.6799999999981
+				text = "active"
+			intervals [62]:
+				xmin = 95.6799999999981
+				xmax = 97.09999999999782
+				text = "sil"
+			intervals [63]:
+				xmin = 97.09999999999782
+				xmax = 100.09999999999722
+				text = "active"
+			intervals [64]:
+				xmin = 100.09999999999722
+				xmax = 101.55999999999693
+				text = "sil"
+			intervals [65]:
+				xmin = 101.55999999999693
+				xmax = 104.51999999999634
+				text = "active"
+			intervals [66]:
+				xmin = 104.51999999999634
+				xmax = 105.99999999999605
+				text = "sil"
+			intervals [67]:
+				xmin = 105.99999999999605
+				xmax = 109.69999999999531
+				text = "active"
+			intervals [68]:
+				xmin = 109.69999999999531
+				xmax = 111.259999999995
+				text = "sil"
+			intervals [69]:
+				xmin = 111.259999999995
+				xmax = 114.21999999999441
+				text = "active"
+			intervals [70]:
+				xmin = 114.21999999999441
+				xmax = 115.75999999999411
+				text = "sil"
+			intervals [71]:
+				xmin = 115.75999999999411
+				xmax = 118.55999999999355
+				text = "active"
+			intervals [72]:
+				xmin = 118.55999999999355
+				xmax = 119.99999999999326
+				text = "sil"
+			intervals [73]:
+				xmin = 119.99999999999326
+				xmax = 120.69999999999312
+				text = "active"
+			intervals [74]:
+				xmin = 120.69999999999312
+				xmax = 121.37999999999299
+				text = "sil"
+			intervals [75]:
+				xmin = 121.37999999999299
+				xmax = 123.53999999999256
+				text = "active"
+			intervals [76]:
+				xmin = 123.53999999999256
+				xmax = 124.97999999999227
+				text = "sil"
+			intervals [77]:
+				xmin = 124.97999999999227
+				xmax = 127.75999999999172
+				text = "active"
+			intervals [78]:
+				xmin = 127.75999999999172
+				xmax = 129.1999999999923
+				text = "sil"
+			intervals [79]:
+				xmin = 129.1999999999923
+				xmax = 129.85999999999262
+				text = "active"
+			intervals [80]:
+				xmin = 129.85999999999262
+				xmax = 130.45999999999293
+				text = "sil"
+			intervals [81]:
+				xmin = 130.45999999999293
+				xmax = 132.41999999999393
+				text = "active"
+			intervals [82]:
+				xmin = 132.41999999999393
+				xmax = 133.9399999999947
+				text = "sil"
+			intervals [83]:
+				xmin = 133.9399999999947
+				xmax = 134.53999999999502
+				text = "active"
+			intervals [84]:
+				xmin = 134.53999999999502
+				xmax = 135.03999999999527
+				text = "sil"
+			intervals [85]:
+				xmin = 135.03999999999527
+				xmax = 136.55999999999605
+				text = "active"
+			intervals [86]:
+				xmin = 136.55999999999605
+				xmax = 137.6399999999966
+				text = "sil"
+			intervals [87]:
+				xmin = 137.6399999999966
+				xmax = 138.31999999999695
+				text = "active"
+			intervals [88]:
+				xmin = 138.31999999999695
+				xmax = 138.83999999999722
+				text = "sil"
+			intervals [89]:
+				xmin = 138.83999999999722
+				xmax = 141.1399999999984
+				text = "active"
+			intervals [90]:
+				xmin = 141.1399999999984
+				xmax = 141.7599999999987
+				text = "sil"
+			intervals [91]:
+				xmin = 141.7599999999987
+				xmax = 143.99999999999986
+				text = "active"
+			intervals [92]:
+				xmin = 143.99999999999986
+				xmax = 145.6600000000007
+				text = "sil"
+			intervals [93]:
+				xmin = 145.6600000000007
+				xmax = 146.32000000000104
+				text = "active"
+			intervals [94]:
+				xmin = 146.32000000000104
+				xmax = 146.8200000000013
+				text = "sil"
+			intervals [95]:
+				xmin = 146.8200000000013
+				xmax = 149.84000000000285
+				text = "active"
+			intervals [96]:
+				xmin = 149.84000000000285
+				xmax = 151.48000000000368
+				text = "sil"
+			intervals [97]:
+				xmin = 151.48000000000368
+				xmax = 154.6600000000053
+				text = "active"
+			intervals [98]:
+				xmin = 154.6600000000053
+				xmax = 156.020000000006
+				text = "sil"
+			intervals [99]:
+				xmin = 156.020000000006
+				xmax = 156.68000000000634
+				text = "active"
+			intervals [100]:
+				xmin = 156.68000000000634
+				xmax = 157.3800000000067
+				text = "sil"
+			intervals [101]:
+				xmin = 157.3800000000067
+				xmax = 158.9400000000075
+				text = "active"
+			intervals [102]:
+				xmin = 158.9400000000075
+				xmax = 160.5000000000083
+				text = "sil"
+			intervals [103]:
+				xmin = 160.5000000000083
+				xmax = 162.92000000000954
+				text = "active"
+			intervals [104]:
+				xmin = 162.92000000000954
+				xmax = 164.46000000001033
+				text = "sil"
+			intervals [105]:
+				xmin = 164.46000000001033
+				xmax = 165.2000000000107
+				text = "active"
+			intervals [106]:
+				xmin = 165.2000000000107
+				xmax = 165.74000000001098
+				text = "sil"
+			intervals [107]:
+				xmin = 165.74000000001098
+				xmax = 167.04000000001164
+				text = "active"
+			intervals [108]:
+				xmin = 167.04000000001164
+				xmax = 168.56000000001242
+				text = "sil"
+			intervals [109]:
+				xmin = 168.56000000001242
+				xmax = 172.16000000001426
+				text = "active"
+			intervals [110]:
+				xmin = 172.16000000001426
+				xmax = 173.32000000001486
+				text = "sil"
+			intervals [111]:
+				xmin = 173.32000000001486
+				xmax = 176.38000000001642
+				text = "active"
+			intervals [112]:
+				xmin = 176.38000000001642
+				xmax = 177.96000000001723
+				text = "sil"
+			intervals [113]:
+				xmin = 177.96000000001723
+				xmax = 178.6800000000176
+				text = "active"
+			intervals [114]:
+				xmin = 178.6800000000176
+				xmax = 179.20000000001787
+				text = "sil"
+			intervals [115]:
+				xmin = 179.20000000001787
+				xmax = 181.12000000001885
+				text = "active"
+			intervals [116]:
+				xmin = 181.12000000001885
+				xmax = 182.74000000001968
+				text = "sil"
+			intervals [117]:
+				xmin = 182.74000000001968
+				xmax = 186.2800000000215
+				text = "active"
+			intervals [118]:
+				xmin = 186.2800000000215
+				xmax = 187.70000000002221
+				text = "sil"
+			intervals [119]:
+				xmin = 187.70000000002221
+				xmax = 188.36000000002255
+				text = "active"
+			intervals [120]:
+				xmin = 188.36000000002255
+				xmax = 188.88000000002282
+				text = "sil"
+			intervals [121]:
+				xmin = 188.88000000002282
+				xmax = 190.72000000002376
+				text = "active"
+			intervals [122]:
+				xmin = 190.72000000002376
+				xmax = 192.1400000000245
+				text = "sil"
+			intervals [123]:
+				xmin = 192.1400000000245
+				xmax = 192.7400000000248
+				text = "active"
+			intervals [124]:
+				xmin = 192.7400000000248
+				xmax = 193.26000000002506
+				text = "sil"
+			intervals [125]:
+				xmin = 193.26000000002506
+				xmax = 194.1400000000255
+				text = "active"
+			intervals [126]:
+				xmin = 194.1400000000255
+				xmax = 195.84000000002638
+				text = "sil"
+			intervals [127]:
+				xmin = 195.84000000002638
+				xmax = 199.2200000000281
+				text = "active"
+			intervals [128]:
+				xmin = 199.2200000000281
+				xmax = 200.68000000002885
+				text = "sil"
+			intervals [129]:
+				xmin = 200.68000000002885
+				xmax = 204.76000000003094
+				text = "active"
+			intervals [130]:
+				xmin = 204.76000000003094
+				xmax = 205.72000000003143
+				text = "sil"
+			intervals [131]:
+				xmin = 205.72000000003143
+				xmax = 206.2400000000317
+				text = "active"
+			intervals [132]:
+				xmin = 206.2400000000317
+				xmax = 206.74000000003196
+				text = "sil"
+			intervals [133]:
+				xmin = 206.74000000003196
+				xmax = 207.52000000003235
+				text = "active"
+			intervals [134]:
+				xmin = 207.52000000003235
+				xmax = 208.24000000003272
+				text = "sil"
+			intervals [135]:
+				xmin = 208.24000000003272
+				xmax = 209.90000000003357
+				text = "active"
+			intervals [136]:
+				xmin = 209.90000000003357
+				xmax = 211.3200000000343
+				text = "sil"
+			intervals [137]:
+				xmin = 211.3200000000343
+				xmax = 214.00000000003567
+				text = "active"
+			intervals [138]:
+				xmin = 214.00000000003567
+				xmax = 215.6200000000365
+				text = "sil"
+			intervals [139]:
+				xmin = 215.6200000000365
+				xmax = 216.48000000003694
+				text = "active"
+			intervals [140]:
+				xmin = 216.48000000003694
+				xmax = 217.02000000003721
+				text = "sil"
+			intervals [141]:
+				xmin = 217.02000000003721
+				xmax = 219.10000000003828
+				text = "active"
+			intervals [142]:
+				xmin = 219.10000000003828
+				xmax = 220.7000000000391
+				text = "sil"
+			intervals [143]:
+				xmin = 220.7000000000391
+				xmax = 221.40000000003946
+				text = "active"
+			intervals [144]:
+				xmin = 221.40000000003946
+				xmax = 221.9000000000397
+				text = "sil"
+			intervals [145]:
+				xmin = 221.9000000000397
+				xmax = 222.8800000000402
+				text = "active"
+			intervals [146]:
+				xmin = 222.8800000000402
+				xmax = 224.56000000004107
+				text = "sil"
+			intervals [147]:
+				xmin = 224.56000000004107
+				xmax = 227.9200000000428
+				text = "active"
+			intervals [148]:
+				xmin = 227.9200000000428
+				xmax = 229.38000000004354
+				text = "sil"
+			intervals [149]:
+				xmin = 229.38000000004354
+				xmax = 232.8000000000453
+				text = "active"
+			intervals [150]:
+				xmin = 232.8000000000453
+				xmax = 233.54000000004567
+				text = "sil"
+			intervals [151]:
+				xmin = 233.54000000004567
+				xmax = 236.40000000004713
+				text = "active"
+			intervals [152]:
+				xmin = 236.40000000004713
+				xmax = 238.04000000004797
+				text = "sil"
+			intervals [153]:
+				xmin = 238.04000000004797
+				xmax = 240.8400000000494
+				text = "active"
+			intervals [154]:
+				xmin = 240.8400000000494
+				xmax = 242.14000000005007
+				text = "sil"
+			intervals [155]:
+				xmin = 242.14000000005007
+				xmax = 244.40000000005122
+				text = "active"
+			intervals [156]:
+				xmin = 244.40000000005122
+				xmax = 245.80000000005194
+				text = "sil"
+			intervals [157]:
+				xmin = 245.80000000005194
+				xmax = 248.4800000000533
+				text = "active"
+			intervals [158]:
+				xmin = 248.4800000000533
+				xmax = 250.10000000005414
+				text = "sil"
+			intervals [159]:
+				xmin = 250.10000000005414
+				xmax = 250.76000000005448
+				text = "active"
+			intervals [160]:
+				xmin = 250.76000000005448
+				xmax = 251.46000000005483
+				text = "sil"
+			intervals [161]:
+				xmin = 251.46000000005483
+				xmax = 252.48000000005536
+				text = "active"
+			intervals [162]:
+				xmin = 252.48000000005536
+				xmax = 253.3400000000558
+				text = "sil"
+			intervals [163]:
+				xmin = 253.3400000000558
+				xmax = 255.74000000005702
+				text = "active"
+			intervals [164]:
+				xmin = 255.74000000005702
+				xmax = 257.4800000000558
+				text = "sil"
+			intervals [165]:
+				xmin = 257.4800000000558
+				xmax = 261.0800000000525
+				text = "active"
+			intervals [166]:
+				xmin = 261.0800000000525
+				xmax = 262.6400000000511
+				text = "sil"
+			intervals [167]:
+				xmin = 262.6400000000511
+				xmax = 265.6800000000483
+				text = "active"
+			intervals [168]:
+				xmin = 265.6800000000483
+				xmax = 267.3400000000468
+				text = "sil"
+			intervals [169]:
+				xmin = 267.3400000000468
+				xmax = 271.0800000000434
+				text = "active"
+			intervals [170]:
+				xmin = 271.0800000000434
+				xmax = 272.7400000000419
+				text = "sil"
+			intervals [171]:
+				xmin = 272.7400000000419
+				xmax = 273.3800000000413
+				text = "active"
+			intervals [172]:
+				xmin = 273.3800000000413
+				xmax = 273.92000000004083
+				text = "sil"
+			intervals [173]:
+				xmin = 273.92000000004083
+				xmax = 275.5800000000393
+				text = "active"
+			intervals [174]:
+				xmin = 275.5800000000393
+				xmax = 276.98000000003805
+				text = "sil"
+			intervals [175]:
+				xmin = 276.98000000003805
+				xmax = 279.52000000003574
+				text = "active"
+			intervals [176]:
+				xmin = 279.52000000003574
+				xmax = 281.2200000000342
+				text = "sil"
+			intervals [177]:
+				xmin = 281.2200000000342
+				xmax = 284.2000000000315
+				text = "active"
+			intervals [178]:
+				xmin = 284.2000000000315
+				xmax = 285.5000000000303
+				text = "sil"
+			intervals [179]:
+				xmin = 285.5000000000303
+				xmax = 288.28000000002777
+				text = "active"
+			intervals [180]:
+				xmin = 288.28000000002777
+				xmax = 289.64000000002653
+				text = "sil"
+			intervals [181]:
+				xmin = 289.64000000002653
+				xmax = 292.68000000002377
+				text = "active"
+			intervals [182]:
+				xmin = 292.68000000002377
+				xmax = 294.14000000002244
+				text = "sil"
+			intervals [183]:
+				xmin = 294.14000000002244
+				xmax = 296.80000000002
+				text = "active"
+			intervals [184]:
+				xmin = 296.80000000002
+				xmax = 298.3400000000186
+				text = "sil"
+			intervals [185]:
+				xmin = 298.3400000000186
+				xmax = 299.06000000001796
+				text = "active"
+			intervals [186]:
+				xmin = 299.06000000001796
+				xmax = 299.6600000000174
+				text = "sil"
+			intervals [187]:
+				xmin = 299.6600000000174
+				xmax = 301.18000000001604
+				text = "active"
+			intervals [188]:
+				xmin = 301.18000000001604
+				xmax = 302.7400000000146
+				text = "sil"
+			intervals [189]:
+				xmin = 302.7400000000146
+				xmax = 303.5000000000139
+				text = "active"
+			intervals [190]:
+				xmin = 303.5000000000139
+				xmax = 304.04000000001344
+				text = "sil"
+			intervals [191]:
+				xmin = 304.04000000001344
+				xmax = 305.3000000000123
+				text = "active"
+			intervals [192]:
+				xmin = 305.3000000000123
+				xmax = 306.9400000000108
+				text = "sil"
+			intervals [193]:
+				xmin = 306.9400000000108
+				xmax = 309.20000000000874
+				text = "active"
+			intervals [194]:
+				xmin = 309.20000000000874
+				xmax = 310.74000000000734
+				text = "sil"
+			intervals [195]:
+				xmin = 310.74000000000734
+				xmax = 313.4400000000049
+				text = "active"
+			intervals [196]:
+				xmin = 313.4400000000049
+				xmax = 314.9400000000035
+				text = "sil"
+			intervals [197]:
+				xmin = 314.9400000000035
+				xmax = 317.9400000000008
+				text = "active"
+			intervals [198]:
+				xmin = 317.9400000000008
+				xmax = 319.1399999999997
+				text = "sil"
+			intervals [199]:
+				xmin = 319.1399999999997
+				xmax = 323.0799999999961
+				text = "active"
+			intervals [200]:
+				xmin = 323.0799999999961
+				xmax = 324.0599999999952
+				text = "sil"
+			intervals [201]:
+				xmin = 324.0599999999952
+				xmax = 326.87999999999266
+				text = "active"
+			intervals [202]:
+				xmin = 326.87999999999266
+				xmax = 328.3599999999913
+				text = "sil"
+			intervals [203]:
+				xmin = 328.3599999999913
+				xmax = 331.3399999999886
+				text = "active"
+			intervals [204]:
+				xmin = 331.3399999999886
+				xmax = 332.5799999999875
+				text = "sil"
+			intervals [205]:
+				xmin = 332.5799999999875
+				xmax = 335.0599999999852
+				text = "active"
+			intervals [206]:
+				xmin = 335.0599999999852
+				xmax = 336.35999999998404
+				text = "sil"
+			intervals [207]:
+				xmin = 336.35999999998404
+				xmax = 339.9399999999808
+				text = "active"
+			intervals [208]:
+				xmin = 339.9399999999808
+				xmax = 341.2599999999796
+				text = "sil"
+			intervals [209]:
+				xmin = 341.2599999999796
+				xmax = 341.93999999997897
+				text = "active"
+			intervals [210]:
+				xmin = 341.93999999997897
+				xmax = 342.51999999997844
+				text = "sil"
+			intervals [211]:
+				xmin = 342.51999999997844
+				xmax = 344.099999999977
+				text = "active"
+			intervals [212]:
+				xmin = 344.099999999977
+				xmax = 345.5599999999757
+				text = "sil"
+			intervals [213]:
+				xmin = 345.5599999999757
+				xmax = 348.6399999999729
+				text = "active"
+			intervals [214]:
+				xmin = 348.6399999999729
+				xmax = 350.1199999999715
+				text = "sil"
+			intervals [215]:
+				xmin = 350.1199999999715
+				xmax = 352.19999999996963
+				text = "active"
+			intervals [216]:
+				xmin = 352.19999999996963
+				xmax = 353.5599999999684
+				text = "sil"
+			intervals [217]:
+				xmin = 353.5599999999684
+				xmax = 356.0599999999661
+				text = "active"
+			intervals [218]:
+				xmin = 356.0599999999661
+				xmax = 357.299999999965
+				text = "sil"
+			intervals [219]:
+				xmin = 357.299999999965
+				xmax = 360.1599999999624
+				text = "active"
+			intervals [220]:
+				xmin = 360.1599999999624
+				xmax = 361.5799999999611
+				text = "sil"
+			intervals [221]:
+				xmin = 361.5799999999611
+				xmax = 364.15999999995876
+				text = "active"
+			intervals [222]:
+				xmin = 364.15999999995876
+				xmax = 365.57999999995747
+				text = "sil"
+			intervals [223]:
+				xmin = 365.57999999995747
+				xmax = 368.0599999999552
+				text = "active"
+			intervals [224]:
+				xmin = 368.0599999999552
+				xmax = 369.2799999999541
+				text = "sil"
+			intervals [225]:
+				xmin = 369.2799999999541
+				xmax = 371.2599999999523
+				text = "active"
+			intervals [226]:
+				xmin = 371.2599999999523
+				xmax = 372.29999999995135
+				text = "sil"
+			intervals [227]:
+				xmin = 372.29999999995135
+				xmax = 374.25999999994957
+				text = "active"
+			intervals [228]:
+				xmin = 374.25999999994957
+				xmax = 375.5399999999484
+				text = "sil"
+			intervals [229]:
+				xmin = 375.5399999999484
+				xmax = 382.1399999999424
+				text = "active"
+			intervals [230]:
+				xmin = 382.1399999999424
+				xmax = 383.2399999999414
+				text = "sil"
+			intervals [231]:
+				xmin = 383.2399999999414
+				xmax = 386.39999999993853
+				text = "active"
+			intervals [232]:
+				xmin = 386.39999999993853
+				xmax = 387.1999999999378
+				text = "sil"
+			intervals [233]:
+				xmin = 387.1999999999378
+				xmax = 390.1399999999351
+				text = "active"
+			intervals [234]:
+				xmin = 390.1399999999351
+				xmax = 391.33999999993404
+				text = "sil"
+			intervals [235]:
+				xmin = 391.33999999993404
+				xmax = 393.7199999999319
+				text = "active"
+			intervals [236]:
+				xmin = 393.7199999999319
+				xmax = 394.7999999999309
+				text = "sil"
+			intervals [237]:
+				xmin = 394.7999999999309
+				xmax = 397.81999999992814
+				text = "active"
+			intervals [238]:
+				xmin = 397.81999999992814
+				xmax = 399.059999999927
+				text = "sil"
+			intervals [239]:
+				xmin = 399.059999999927
+				xmax = 401.299999999925
+				text = "active"
+			intervals [240]:
+				xmin = 401.299999999925
+				xmax = 402.53999999992385
+				text = "sil"
+			intervals [241]:
+				xmin = 402.53999999992385
+				xmax = 405.1199999999215
+				text = "active"
+			intervals [242]:
+				xmin = 405.1199999999215
+				xmax = 405.9799999999207
+				text = "sil"
+			intervals [243]:
+				xmin = 405.9799999999207
+				xmax = 408.8599999999181
+				text = "active"
+			intervals [244]:
+				xmin = 408.8599999999181
+				xmax = 410.2799999999168
+				text = "sil"
+			intervals [245]:
+				xmin = 410.2799999999168
+				xmax = 410.9799999999162
+				text = "active"
+			intervals [246]:
+				xmin = 410.9799999999162
+				xmax = 411.5199999999157
+				text = "sil"
+			intervals [247]:
+				xmin = 411.5199999999157
+				xmax = 413.7799999999136
+				text = "active"
+			intervals [248]:
+				xmin = 413.7799999999136
+				xmax = 414.9199999999126
+				text = "sil"
+			intervals [249]:
+				xmin = 414.9199999999126
+				xmax = 417.47999999991026
+				text = "active"
+			intervals [250]:
+				xmin = 417.47999999991026
+				xmax = 418.71999999990913
+				text = "sil"
+			intervals [251]:
+				xmin = 418.71999999990913
+				xmax = 419.3999999999085
+				text = "active"
+			intervals [252]:
+				xmin = 419.3999999999085
+				xmax = 419.979999999908
+				text = "sil"
+			intervals [253]:
+				xmin = 419.979999999908
+				xmax = 421.11999999990695
+				text = "active"
+			intervals [254]:
+				xmin = 421.11999999990695
+				xmax = 422.6199999999056
+				text = "sil"
+			intervals [255]:
+				xmin = 422.6199999999056
+				xmax = 426.3599999999022
+				text = "active"
+			intervals [256]:
+				xmin = 426.3599999999022
+				xmax = 427.9999999999007
+				text = "sil"
+			intervals [257]:
+				xmin = 427.9999999999007
+				xmax = 430.2799999998986
+				text = "active"
+			intervals [258]:
+				xmin = 430.2799999998986
+				xmax = 431.8599999998972
+				text = "sil"
+			intervals [259]:
+				xmin = 431.8599999998972
+				xmax = 434.8999999998944
+				text = "active"
+			intervals [260]:
+				xmin = 434.8999999998944
+				xmax = 436.17999999989325
+				text = "sil"
+			intervals [261]:
+				xmin = 436.17999999989325
+				xmax = 440.3999999998894
+				text = "active"
+			intervals [262]:
+				xmin = 440.3999999998894
+				xmax = 441.7199999998882
+				text = "sil"
+			intervals [263]:
+				xmin = 441.7199999998882
+				xmax = 442.43999999988756
+				text = "active"
+			intervals [264]:
+				xmin = 442.43999999988756
+				xmax = 443.079999999887
+				text = "sil"
+			intervals [265]:
+				xmin = 443.079999999887
+				xmax = 444.7999999998854
+				text = "active"
+			intervals [266]:
+				xmin = 444.7999999998854
+				xmax = 446.19999999988414
+				text = "sil"
+			intervals [267]:
+				xmin = 446.19999999988414
+				xmax = 446.93999999988347
+				text = "active"
+			intervals [268]:
+				xmin = 446.93999999988347
+				xmax = 447.479999999883
+				text = "sil"
+			intervals [269]:
+				xmin = 447.479999999883
+				xmax = 449.57999999988107
+				text = "active"
+			intervals [270]:
+				xmin = 449.57999999988107
+				xmax = 450.8399999998799
+				text = "sil"
+			intervals [271]:
+				xmin = 450.8399999998799
+				xmax = 451.5399999998793
+				text = "active"
+			intervals [272]:
+				xmin = 451.5399999998793
+				xmax = 452.13999999987874
+				text = "sil"
+			intervals [273]:
+				xmin = 452.13999999987874
+				xmax = 453.53999999987747
+				text = "active"
+			intervals [274]:
+				xmin = 453.53999999987747
+				xmax = 454.75999999987636
+				text = "sil"
+			intervals [275]:
+				xmin = 454.75999999987636
+				xmax = 457.0999999998742
+				text = "active"
+			intervals [276]:
+				xmin = 457.0999999998742
+				xmax = 458.9799999998725
+				text = "sil"
+			intervals [277]:
+				xmin = 458.9799999998725
+				xmax = 459.6799999998719
+				text = "active"
+			intervals [278]:
+				xmin = 459.6799999998719
+				xmax = 460.37999999987125
+				text = "sil"
+			intervals [279]:
+				xmin = 460.37999999987125
+				xmax = 462.5199999998693
+				text = "active"
+			intervals [280]:
+				xmin = 462.5199999998693
+				xmax = 463.6999999998682
+				text = "sil"
+			intervals [281]:
+				xmin = 463.6999999998682
+				xmax = 467.3399999998649
+				text = "active"
+			intervals [282]:
+				xmin = 467.3399999998649
+				xmax = 468.6999999998637
+				text = "sil"
+			intervals [283]:
+				xmin = 468.6999999998637
+				xmax = 471.4199999998612
+				text = "active"
+			intervals [284]:
+				xmin = 471.4199999998612
+				xmax = 472.69999999986004
+				text = "sil"
+			intervals [285]:
+				xmin = 472.69999999986004
+				xmax = 474.79999999985813
+				text = "active"
+			intervals [286]:
+				xmin = 474.79999999985813
+				xmax = 476.41999999985666
+				text = "sil"
+			intervals [287]:
+				xmin = 476.41999999985666
+				xmax = 479.15999999985416
+				text = "active"
+			intervals [288]:
+				xmin = 479.15999999985416
+				xmax = 480.91999999985256
+				text = "sil"
+			intervals [289]:
+				xmin = 480.91999999985256
+				xmax = 484.2999999998495
+				text = "active"
+			intervals [290]:
+				xmin = 484.2999999998495
+				xmax = 485.75999999984816
+				text = "sil"
+			intervals [291]:
+				xmin = 485.75999999984816
+				xmax = 486.43999999984754
+				text = "active"
+			intervals [292]:
+				xmin = 486.43999999984754
+				xmax = 486.99999999984703
+				text = "sil"
+			intervals [293]:
+				xmin = 486.99999999984703
+				xmax = 488.9999999998452
+				text = "active"
+			intervals [294]:
+				xmin = 488.9999999998452
+				xmax = 489.63999999984463
+				text = "sil"
+			intervals [295]:
+				xmin = 489.63999999984463
+				xmax = 492.8399999998417
+				text = "active"
+			intervals [296]:
+				xmin = 492.8399999998417
+				xmax = 494.1999999998405
+				text = "sil"
+			intervals [297]:
+				xmin = 494.1999999998405
+				xmax = 497.75999999983725
+				text = "active"
+			intervals [298]:
+				xmin = 497.75999999983725
+				xmax = 499.159999999836
+				text = "sil"
+			intervals [299]:
+				xmin = 499.159999999836
+				xmax = 502.0999999998333
+				text = "active"
+			intervals [300]:
+				xmin = 502.0999999998333
+				xmax = 503.4399999998321
+				text = "sil"
+			intervals [301]:
+				xmin = 503.4399999998321
+				xmax = 506.23999999982954
+				text = "active"
+			intervals [302]:
+				xmin = 506.23999999982954
+				xmax = 507.51999999982837
+				text = "sil"
+			intervals [303]:
+				xmin = 507.51999999982837
+				xmax = 515.3999999998213
+				text = "active"
+			intervals [304]:
+				xmin = 515.3999999998213
+				xmax = 516.5599999998202
+				text = "sil"
+			intervals [305]:
+				xmin = 516.5599999998202
+				xmax = 517.4199999998194
+				text = "active"
+			intervals [306]:
+				xmin = 517.4199999998194
+				xmax = 517.9999999998189
+				text = "sil"
+			intervals [307]:
+				xmin = 517.9999999998189
+				xmax = 519.7399999998173
+				text = "active"
+			intervals [308]:
+				xmin = 519.7399999998173
+				xmax = 521.0799999998161
+				text = "sil"
+			intervals [309]:
+				xmin = 521.0799999998161
+				xmax = 524.9199999998126
+				text = "active"
+			intervals [310]:
+				xmin = 524.9199999998126
+				xmax = 526.6199999998111
+				text = "sil"
+			intervals [311]:
+				xmin = 526.6199999998111
+				xmax = 527.3599999998104
+				text = "active"
+			intervals [312]:
+				xmin = 527.3599999998104
+				xmax = 527.8999999998099
+				text = "sil"
+			intervals [313]:
+				xmin = 527.8999999998099
+				xmax = 530.8599999998072
+				text = "active"
+			intervals [314]:
+				xmin = 530.8599999998072
+				xmax = 532.179999999806
+				text = "sil"
+			intervals [315]:
+				xmin = 532.179999999806
+				xmax = 532.8999999998053
+				text = "active"
+			intervals [316]:
+				xmin = 532.8999999998053
+				xmax = 533.5799999998047
+				text = "sil"
+			intervals [317]:
+				xmin = 533.5799999998047
+				xmax = 534.2399999998041
+				text = "active"
+			intervals [318]:
+				xmin = 534.2399999998041
+				xmax = 535.8999999998026
+				text = "sil"
+			intervals [319]:
+				xmin = 535.8999999998026
+				xmax = 538.8999999997999
+				text = "active"
+			intervals [320]:
+				xmin = 538.8999999997999
+				xmax = 539.919999999799
+				text = "sil"
+			intervals [321]:
+				xmin = 539.919999999799
+				xmax = 543.6999999997955
+				text = "active"
+			intervals [322]:
+				xmin = 543.6999999997955
+				xmax = 545.1599999997942
+				text = "sil"
+			intervals [323]:
+				xmin = 545.1599999997942
+				xmax = 547.7999999997918
+				text = "active"
+			intervals [324]:
+				xmin = 547.7999999997918
+				xmax = 549.2199999997905
+				text = "sil"
+			intervals [325]:
+				xmin = 549.2199999997905
+				xmax = 549.9199999997899
+				text = "active"
+			intervals [326]:
+				xmin = 549.9199999997899
+				xmax = 550.5599999997893
+				text = "sil"
+			intervals [327]:
+				xmin = 550.5599999997893
+				xmax = 552.7999999997872
+				text = "active"
+			intervals [328]:
+				xmin = 552.7999999997872
+				xmax = 553.5799999997865
+				text = "sil"
+			intervals [329]:
+				xmin = 553.5799999997865
+				xmax = 557.7799999997827
+				text = "active"
+			intervals [330]:
+				xmin = 557.7799999997827
+				xmax = 558.2999999997822
+				text = "sil"
+			intervals [331]:
+				xmin = 558.2999999997822
+				xmax = 559.0199999997816
+				text = "active"
+			intervals [332]:
+				xmin = 559.0199999997816
+				xmax = 559.659999999781
+				text = "sil"
+			intervals [333]:
+				xmin = 559.659999999781
+				xmax = 561.6599999997792
+				text = "active"
+			intervals [334]:
+				xmin = 561.6599999997792
+				xmax = 562.3199999997786
+				text = "sil"
+			intervals [335]:
+				xmin = 562.3199999997786
+				xmax = 563.019999999778
+				text = "active"
+			intervals [336]:
+				xmin = 563.019999999778
+				xmax = 563.6399999997774
+				text = "sil"
+			intervals [337]:
+				xmin = 563.6399999997774
+				xmax = 565.7199999997755
+				text = "active"
+			intervals [338]:
+				xmin = 565.7199999997755
+				xmax = 566.7199999997746
+				text = "sil"
+			intervals [339]:
+				xmin = 566.7199999997746
+				xmax = 567.379999999774
+				text = "active"
+			intervals [340]:
+				xmin = 567.379999999774
+				xmax = 567.8999999997735
+				text = "sil"
+			intervals [341]:
+				xmin = 567.8999999997735
+				xmax = 569.7399999997718
+				text = "active"
+			intervals [342]:
+				xmin = 569.7399999997718
+				xmax = 570.8599999997708
+				text = "sil"
+			intervals [343]:
+				xmin = 570.8599999997708
+				xmax = 573.3799999997685
+				text = "active"
+			intervals [344]:
+				xmin = 573.3799999997685
+				xmax = 574.5799999997674
+				text = "sil"
+			intervals [345]:
+				xmin = 574.5799999997674
+				xmax = 575.2799999997668
+				text = "active"
+			intervals [346]:
+				xmin = 575.2799999997668
+				xmax = 576.7999999997654
+				text = "sil"
+			intervals [347]:
+				xmin = 576.7999999997654
+				xmax = 578.8999999997635
+				text = "active"
+			intervals [348]:
+				xmin = 578.8999999997635
+				xmax = 580.1999999997623
+				text = "sil"
+			intervals [349]:
+				xmin = 580.1999999997623
+				xmax = 583.1799999997596
+				text = "active"
+			intervals [350]:
+				xmin = 583.1799999997596
+				xmax = 584.979999999758
+				text = "sil"
+			intervals [351]:
+				xmin = 584.979999999758
+				xmax = 587.2999999997559
+				text = "active"
+			intervals [352]:
+				xmin = 587.2999999997559
+				xmax = 588.7999999997545
+				text = "sil"
+			intervals [353]:
+				xmin = 588.7999999997545
+				xmax = 589.4999999997539
+				text = "active"
+			intervals [354]:
+				xmin = 589.4999999997539
+				xmax = 590.0799999997533
+				text = "sil"
+			intervals [355]:
+				xmin = 590.0799999997533
+				xmax = 592.3199999997513
+				text = "active"
+			intervals [356]:
+				xmin = 592.3199999997513
+				xmax = 593.4599999997503
+				text = "sil"
+			intervals [357]:
+				xmin = 593.4599999997503
+				xmax = 595.8599999997481
+				text = "active"
+			intervals [358]:
+				xmin = 595.8599999997481
+				xmax = 596.5999999997474
+				text = "sil"
+			intervals [359]:
+				xmin = 596.5999999997474
+				xmax = 597.7999999997463
+				text = "active"
+			intervals [360]:
+				xmin = 597.7999999997463
+				xmax = 598.4199999997458
+				text = "sil"
+			intervals [361]:
+				xmin = 598.4199999997458
+				xmax = 599.8199999997445
+				text = "active"
+			intervals [362]:
+				xmin = 599.8199999997445
+				xmax = 600.9199999997435
+				text = "sil"
+			intervals [363]:
+				xmin = 600.9199999997435
+				xmax = 601.479999999743
+				text = "active"
+			intervals [364]:
+				xmin = 601.479999999743
+				xmax = 602.1599999997424
+				text = "sil"
+			intervals [365]:
+				xmin = 602.1599999997424
+				xmax = 603.3799999997412
+				text = "active"
+			intervals [366]:
+				xmin = 603.3799999997412
+				xmax = 604.6199999997401
+				text = "sil"
+			intervals [367]:
+				xmin = 604.6199999997401
+				xmax = 605.2399999997396
+				text = "active"
+			intervals [368]:
+				xmin = 605.2399999997396
+				xmax = 605.839999999739
+				text = "sil"
+			intervals [369]:
+				xmin = 605.839999999739
+				xmax = 607.5999999997374
+				text = "active"
+			intervals [370]:
+				xmin = 607.5999999997374
+				xmax = 608.6799999997364
+				text = "sil"
+			intervals [371]:
+				xmin = 608.6799999997364
+				xmax = 609.3399999997358
+				text = "active"
+			intervals [372]:
+				xmin = 609.3399999997358
+				xmax = 610.0399999997352
+				text = "sil"
+			intervals [373]:
+				xmin = 610.0399999997352
+				xmax = 611.5599999997338
+				text = "active"
+			intervals [374]:
+				xmin = 611.5599999997338
+				xmax = 612.7999999997327
+				text = "sil"
+			intervals [375]:
+				xmin = 612.7999999997327
+				xmax = 613.3799999997321
+				text = "active"
+			intervals [376]:
+				xmin = 613.3799999997321
+				xmax = 614.0999999997315
+				text = "sil"
+			intervals [377]:
+				xmin = 614.0999999997315
+				xmax = 614.8399999997308
+				text = "active"
+			intervals [378]:
+				xmin = 614.8399999997308
+				xmax = 616.1399999997296
+				text = "sil"
+			intervals [379]:
+				xmin = 616.1399999997296
+				xmax = 616.799999999729
+				text = "active"
+			intervals [380]:
+				xmin = 616.799999999729
+				xmax = 617.4799999997284
+				text = "sil"
+			intervals [381]:
+				xmin = 617.4799999997284
+				xmax = 618.6999999997273
+				text = "active"
+			intervals [382]:
+				xmin = 618.6999999997273
+				xmax = 620.2199999997259
+				text = "sil"
+			intervals [383]:
+				xmin = 620.2199999997259
+				xmax = 623.6999999997228
+				text = "active"
+			intervals [384]:
+				xmin = 623.6999999997228
+				xmax = 624.8599999997217
+				text = "sil"
+			intervals [385]:
+				xmin = 624.8599999997217
+				xmax = 628.1599999997187
+				text = "active"
+			intervals [386]:
+				xmin = 628.1599999997187
+				xmax = 629.3799999997176
+				text = "sil"
+			intervals [387]:
+				xmin = 629.3799999997176
+				xmax = 629.9599999997171
+				text = "active"
+			intervals [388]:
+				xmin = 629.9599999997171
+				xmax = 630.4999999997166
+				text = "sil"
+			intervals [389]:
+				xmin = 630.4999999997166
+				xmax = 632.5399999997147
+				text = "active"
+			intervals [390]:
+				xmin = 632.5399999997147
+				xmax = 633.4999999997139
+				text = "sil"
+			intervals [391]:
+				xmin = 633.4999999997139
+				xmax = 634.0799999997133
+				text = "active"
+			intervals [392]:
+				xmin = 634.0799999997133
+				xmax = 634.7599999997127
+				text = "sil"
+			intervals [393]:
+				xmin = 634.7599999997127
+				xmax = 637.6199999997101
+				text = "active"
+			intervals [394]:
+				xmin = 637.6199999997101
+				xmax = 638.9599999997089
+				text = "sil"
+			intervals [395]:
+				xmin = 638.9599999997089
+				xmax = 642.1999999997059
+				text = "active"
+			intervals [396]:
+				xmin = 642.1999999997059
+				xmax = 643.219999999705
+				text = "sil"
+			intervals [397]:
+				xmin = 643.219999999705
+				xmax = 646.4399999997021
+				text = "active"
+			intervals [398]:
+				xmin = 646.4399999997021
+				xmax = 647.659999999701
+				text = "sil"
+			intervals [399]:
+				xmin = 647.659999999701
+				xmax = 650.4199999996985
+				text = "active"
+			intervals [400]:
+				xmin = 650.4199999996985
+				xmax = 651.5599999996974
+				text = "sil"
+			intervals [401]:
+				xmin = 651.5599999996974
+				xmax = 652.1999999996968
+				text = "active"
+			intervals [402]:
+				xmin = 652.1999999996968
+				xmax = 652.7199999996964
+				text = "sil"
+			intervals [403]:
+				xmin = 652.7199999996964
+				xmax = 655.359999999694
+				text = "active"
+			intervals [404]:
+				xmin = 655.359999999694
+				xmax = 656.2799999996931
+				text = "sil"
+			intervals [405]:
+				xmin = 656.2799999996931
+				xmax = 656.8399999996926
+				text = "active"
+			intervals [406]:
+				xmin = 656.8399999996926
+				xmax = 657.3599999996921
+				text = "sil"
+			intervals [407]:
+				xmin = 657.3599999996921
+				xmax = 659.1399999996905
+				text = "active"
+			intervals [408]:
+				xmin = 659.1399999996905
+				xmax = 660.1399999996896
+				text = "sil"
+			intervals [409]:
+				xmin = 660.1399999996896
+				xmax = 662.7999999996872
+				text = "active"
+			intervals [410]:
+				xmin = 662.7999999996872
+				xmax = 663.7799999996863
+				text = "sil"
+			intervals [411]:
+				xmin = 663.7799999996863
+				xmax = 664.3999999996857
+				text = "active"
+			intervals [412]:
+				xmin = 664.3999999996857
+				xmax = 664.9599999996852
+				text = "sil"
+			intervals [413]:
+				xmin = 664.9599999996852
+				xmax = 665.8599999996844
+				text = "active"
+			intervals [414]:
+				xmin = 665.8599999996844
+				xmax = 666.8999999996835
+				text = "sil"
+			intervals [415]:
+				xmin = 666.8999999996835
+				xmax = 669.3799999996812
+				text = "active"
+			intervals [416]:
+				xmin = 669.3799999996812
+				xmax = 670.4999999996802
+				text = "sil"
+			intervals [417]:
+				xmin = 670.4999999996802
+				xmax = 674.2599999996768
+				text = "active"
+			intervals [418]:
+				xmin = 674.2599999996768
+				xmax = 675.2999999996758
+				text = "sil"
+			intervals [419]:
+				xmin = 675.2999999996758
+				xmax = 678.5199999996729
+				text = "active"
+			intervals [420]:
+				xmin = 678.5199999996729
+				xmax = 679.1799999996723
+				text = "sil"
+			intervals [421]:
+				xmin = 679.1799999996723
+				xmax = 681.8399999996699
+				text = "active"
+			intervals [422]:
+				xmin = 681.8399999996699
+				xmax = 683.0199999996688
+				text = "sil"
+			intervals [423]:
+				xmin = 683.0199999996688
+				xmax = 683.5999999996683
+				text = "active"
+			intervals [424]:
+				xmin = 683.5999999996683
+				xmax = 684.2399999996677
+				text = "sil"
+			intervals [425]:
+				xmin = 684.2399999996677
+				xmax = 685.4399999996666
+				text = "active"
+			intervals [426]:
+				xmin = 685.4399999996666
+				xmax = 687.0199999996652
+				text = "sil"
+			intervals [427]:
+				xmin = 687.0199999996652
+				xmax = 689.2199999996632
+				text = "active"
+			intervals [428]:
+				xmin = 689.2199999996632
+				xmax = 690.519999999662
+				text = "sil"
+			intervals [429]:
+				xmin = 690.519999999662
+				xmax = 693.6199999996592
+				text = "active"
+			intervals [430]:
+				xmin = 693.6199999996592
+				xmax = 694.959999999658
+				text = "sil"
+			intervals [431]:
+				xmin = 694.959999999658
+				xmax = 695.7999999996572
+				text = "active"
+			intervals [432]:
+				xmin = 695.7999999996572
+				xmax = 696.5199999996565
+				text = "sil"
+			intervals [433]:
+				xmin = 696.5199999996565
+				xmax = 702.2199999996513
+				text = "active"
+			intervals [434]:
+				xmin = 702.2199999996513
+				xmax = 703.5599999996501
+				text = "sil"
+			intervals [435]:
+				xmin = 703.5599999996501
+				xmax = 706.1399999996478
+				text = "active"
+			intervals [436]:
+				xmin = 706.1399999996478
+				xmax = 707.3399999996467
+				text = "sil"
+			intervals [437]:
+				xmin = 707.3399999996467
+				xmax = 710.2199999996441
+				text = "active"
+			intervals [438]:
+				xmin = 710.2199999996441
+				xmax = 711.5999999996428
+				text = "sil"
+			intervals [439]:
+				xmin = 711.5999999996428
+				xmax = 713.639999999641
+				text = "active"
+			intervals [440]:
+				xmin = 713.639999999641
+				xmax = 714.9199999996398
+				text = "sil"
+			intervals [441]:
+				xmin = 714.9199999996398
+				xmax = 718.2599999996368
+				text = "active"
+			intervals [442]:
+				xmin = 718.2599999996368
+				xmax = 719.6599999996355
+				text = "sil"
+			intervals [443]:
+				xmin = 719.6599999996355
+				xmax = 720.239999999635
+				text = "active"
+			intervals [444]:
+				xmin = 720.239999999635
+				xmax = 720.7599999996345
+				text = "sil"
+			intervals [445]:
+				xmin = 720.7599999996345
+				xmax = 723.3799999996321
+				text = "active"
+			intervals [446]:
+				xmin = 723.3799999996321
+				xmax = 724.4799999996311
+				text = "sil"
+			intervals [447]:
+				xmin = 724.4799999996311
+				xmax = 727.1999999996286
+				text = "active"
+			intervals [448]:
+				xmin = 727.1999999996286
+				xmax = 728.2999999996276
+				text = "sil"
+			intervals [449]:
+				xmin = 728.2999999996276
+				xmax = 731.6399999996246
+				text = "active"
+			intervals [450]:
+				xmin = 731.6399999996246
+				xmax = 733.0199999996233
+				text = "sil"
+			intervals [451]:
+				xmin = 733.0199999996233
+				xmax = 740.5799999996165
+				text = "active"
+			intervals [452]:
+				xmin = 740.5799999996165
+				xmax = 742.239999999615
+				text = "sil"
+			intervals [453]:
+				xmin = 742.239999999615
+				xmax = 745.1799999996123
+				text = "active"
+			intervals [454]:
+				xmin = 745.1799999996123
+				xmax = 746.559999999611
+				text = "sil"
+			intervals [455]:
+				xmin = 746.559999999611
+				xmax = 749.0399999996088
+				text = "active"
+			intervals [456]:
+				xmin = 749.0399999996088
+				xmax = 750.4799999996075
+				text = "sil"
+			intervals [457]:
+				xmin = 750.4799999996075
+				xmax = 751.0599999996069
+				text = "active"
+			intervals [458]:
+				xmin = 751.0599999996069
+				xmax = 751.7399999996063
+				text = "sil"
+			intervals [459]:
+				xmin = 751.7399999996063
+				xmax = 753.0399999996051
+				text = "active"
+			intervals [460]:
+				xmin = 753.0399999996051
+				xmax = 754.5599999996037
+				text = "sil"
+			intervals [461]:
+				xmin = 754.5599999996037
+				xmax = 756.9399999996016
+				text = "active"
+			intervals [462]:
+				xmin = 756.9399999996016
+				xmax = 758.7399999996
+				text = "sil"
+			intervals [463]:
+				xmin = 758.7399999996
+				xmax = 759.4199999995993
+				text = "active"
+			intervals [464]:
+				xmin = 759.4199999995993
+				xmax = 759.9999999995988
+				text = "sil"
+			intervals [465]:
+				xmin = 759.9999999995988
+				xmax = 761.1599999995977
+				text = "active"
+			intervals [466]:
+				xmin = 761.1599999995977
+				xmax = 762.4199999995966
+				text = "sil"
+			intervals [467]:
+				xmin = 762.4199999995966
+				xmax = 763.2599999995958
+				text = "active"
+			intervals [468]:
+				xmin = 763.2599999995958
+				xmax = 763.8599999995953
+				text = "sil"
+			intervals [469]:
+				xmin = 763.8599999995953
+				xmax = 765.1999999995941
+				text = "active"
+			intervals [470]:
+				xmin = 765.1999999995941
+				xmax = 766.5999999995928
+				text = "sil"
+			intervals [471]:
+				xmin = 766.5999999995928
+				xmax = 770.0999999995896
+				text = "active"
+			intervals [472]:
+				xmin = 770.0999999995896
+				xmax = 771.0799999995887
+				text = "sil"
+			intervals [473]:
+				xmin = 771.0799999995887
+				xmax = 773.7199999995863
+				text = "active"
+			intervals [474]:
+				xmin = 773.7199999995863
+				xmax = 774.4599999995856
+				text = "sil"
+			intervals [475]:
+				xmin = 774.4599999995856
+				xmax = 777.5799999995828
+				text = "active"
+			intervals [476]:
+				xmin = 777.5799999995828
+				xmax = 779.0399999995815
+				text = "sil"
+			intervals [477]:
+				xmin = 779.0399999995815
+				xmax = 781.2999999995794
+				text = "active"
+			intervals [478]:
+				xmin = 781.2999999995794
+				xmax = 782.6999999995782
+				text = "sil"
+			intervals [479]:
+				xmin = 782.6999999995782
+				xmax = 785.3999999995757
+				text = "active"
+			intervals [480]:
+				xmin = 785.3999999995757
+				xmax = 786.3399999995748
+				text = "sil"
+			intervals [481]:
+				xmin = 786.3399999995748
+				xmax = 789.42
+				text = "active"

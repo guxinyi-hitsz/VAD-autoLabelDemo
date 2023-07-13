@@ -1,0 +1,14 @@
+# numpy==1.18.5 #兼容librosa和tf
+# numba==0.48.0 #兼容librosa、resampy
+# resampy==0.3.1 #兼容librosa、numba
+# librosa==0.7.2 #兼容tf-1.15.X
+# h5py==2.10.0 #兼容tf
+# tensorflow==1.15.5 #Tensorflow >= 1.15.0
+torch==1.10.1 #PyTorch>=1.10
+torchaudio==0.10.1 #torch版本对应
+torchvision==0.11.1 #torch版本对应
+speechbrain
+textgrid
+# malaya-speech
+# dask
+# webrtcvad

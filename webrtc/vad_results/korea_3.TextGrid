@@ -1,0 +1,54 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 196.7786875
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "语音端点检测层"
+		xmin = 0.0
+		xmax = 196.7786875
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.4200000000000001
+				text = "sil"
+			intervals [2]:
+				xmin = 0.4200000000000001
+				xmax = 7.679999999999924
+				text = "active"
+			intervals [3]:
+				xmin = 7.679999999999924
+				xmax = 7.919999999999919
+				text = "sil"
+			intervals [4]:
+				xmin = 7.919999999999919
+				xmax = 108.2599999999956
+				text = "active"
+			intervals [5]:
+				xmin = 108.2599999999956
+				xmax = 108.61999999999553
+				text = "sil"
+			intervals [6]:
+				xmin = 108.61999999999553
+				xmax = 135.11999999999531
+				text = "active"
+			intervals [7]:
+				xmin = 135.11999999999531
+				xmax = 135.31999999999542
+				text = "sil"
+			intervals [8]:
+				xmin = 135.31999999999542
+				xmax = 193.120000000025
+				text = "active"
+			intervals [9]:
+				xmin = 193.120000000025
+				xmax = 195.4800000000262
+				text = "sil"
+			intervals [10]:
+				xmin = 195.4800000000262
+				xmax = 196.7786875
+				text = "active"
